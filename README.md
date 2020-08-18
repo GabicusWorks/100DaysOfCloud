@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Rich's Cloud Journey
 
-[✍️ Introduce yourself]
+I used to be a IT Director, and I am in the process of retraining myslef from working with on prem solution to cloud.
 
-[✍️ Tell us why you started this challenge]
+I started this challange becuause I have lacked focus on things to build in the cloud while I am getting my certifications.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+At the end of this challenge I would like to see myself back on a fruitful IT track for the future.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- https://twitter.com/gabicus
+- https://www.linkedin.com/in/richardcomito/
 
 ## Stepping out the door
 
