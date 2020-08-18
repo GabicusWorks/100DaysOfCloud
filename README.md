@@ -16,7 +16,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 
 ## Rich's Cloud Journey
 
-I used to be a IT Director, and I am in the process of retraining myslef from working with on prem solution to cloud.
+I used to be a IT Director, and I am in the process of retraining myslef from working with on prem solutions to cloud.
 
 I started this challange becuause I have lacked focus on things to build in the cloud while I am getting my certifications.
 
